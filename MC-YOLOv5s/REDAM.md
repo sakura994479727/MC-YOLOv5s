@@ -2,7 +2,7 @@ data   ## training settings
   
 DataSets  ## Dataset file format
 
-    -- train
+   -- train
   
       -- images
     
