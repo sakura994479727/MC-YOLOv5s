@@ -21,7 +21,7 @@ DataSets  ## Dataset file format
     
  models
  
-   -- myModels ## Model Network Structure Configuration
+    -- myModels ## Model Network Structure Configuration
   
   
   run 
