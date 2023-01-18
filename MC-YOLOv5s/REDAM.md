@@ -2,35 +2,35 @@ data   ## training settings
   
 DataSets  ## Dataset file format
 
-  -- train
+    -- train
   
-    -- images
+      -- images
     
-    -- labels
+     -- labels
     
-  -- val
+   -- val
   
-    -- images
+      -- images
     
-    -- labels
+     -- labels
     
-  -- test
+   -- test
   
-    -- images
+      -- images
     
     
  models
  
-  -- myModels ## Model Network Structure Configuration
+   -- myModels ## Model Network Structure Configuration
   
   
   run 
   
-    -- train  ## training results
+     -- train  ## training results
     
-    -- val  ## Validation results
+     -- val  ## Validation results
     
-    -- detect ## Test results
+      -- detect ## Test results
     
 
   weights ## weight file
